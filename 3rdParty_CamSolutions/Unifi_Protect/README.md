@@ -20,7 +20,7 @@ wget https://github.com/egtechgeek/PWS_Dashboard-WeatherWatch/blob/main/3rdParty
 nano unificam.sh
 ```
 In unificam.sh, Be sure to populate the following tags:
-DOWNLOAD_URL, NEW_FILENAME, FTP_HOST, FTP_USER, FTP_PASS, REMOTE_PATH
+TRANSFER_PROTOCOL, DOWNLOAD_URL, NEW_FILENAME, FTP_HOST, FTP_USER, FTP_PASS, REMOTE_PATH
 			
 -Test run the script:		
 ```
