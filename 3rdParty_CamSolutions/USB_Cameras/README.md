@@ -20,7 +20,7 @@ wget https://github.com/egtechgeek/PWS_Dashboard-WeatherWatch/blob/main/3rdParty
 nano usb_capture.sh
 ```
 In usb_capture.sh, Be sure to populate the following tags:
-	FTP_HOST, FTP_USER, FTP_PASS, REMOTE_PATH, IMAGE_NAME, NEW_FILENAME
+	TRANSFER_PROTOCOL, FTP_HOST, FTP_USER, FTP_PASS, REMOTE_PATH, IMAGE_NAME, NEW_FILENAME
 			
 -Test run the script:		
 ```
