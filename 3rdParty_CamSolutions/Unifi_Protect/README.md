@@ -12,7 +12,7 @@ sudo apt update && sudo apt install wget ftp curl
 
 -Download unificam.sh:		
 ```
-wget https://github.com/egtechgeek/CustomScripts/blob/main/PWS_Dashboard-WeatherWatch/3rdParty_CamSolutions/Unifi_Protect/unificam.sh
+wget https://github.com/egtechgeek/PWS_Dashboard-WeatherWatch/blob/main/3rdParty_CamSolutions/Unifi_Protect/unificam.sh
 ```
 
 -Edit unificam.sh:			
