@@ -12,7 +12,7 @@ sudo apt update && sudo apt install wget ftp curl fswebcam
 
 -Download unificam.sh:		
 ```
-wget https://github.com/egtechgeek/CustomScripts/blob/main/PWS_Dashboard-WeatherWatch/3rdParty_CamSolutions/USB_Cameras/usb_capture.sh
+wget https://github.com/egtechgeek/PWS_Dashboard-WeatherWatch/blob/main/3rdParty_CamSolutions/USB_Cameras/usb_capture.sh
 ```
 
 -Edit usb_capture.sh:			
